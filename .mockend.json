@@ -1,12 +1,12 @@
 {
-    "usuarios": [
+    "Usuarios": [
       {
         "id": 1,
         "usuario": "John Doe",
         "email": "john.due@gmail.com"
       }
     ],
-    "heroes": [
+    "Heroes": [
       {
         "id": "dc-batman",
         "superhero": "Batman",
